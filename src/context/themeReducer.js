@@ -10,7 +10,7 @@
     if(action.type === 'color-3'){
         return {...state, primary: 'color-3'}
     }
-    if(action.type === 'color-'){
+    if(action.type === 'color-4'){
         return {...state, primary: 'color-4'}
     }
     if(action.type === 'color-5'){
