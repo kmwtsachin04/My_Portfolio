@@ -25,7 +25,7 @@ const Header = () => {
     <br />
     <h6>I am a <span className='role'>{text} </span><span className='role' ><Cursor cursorStyle="|"/></span></h6>
    
-    <p>I am a highly skilled and versatile software engineer who has expertise in both front-end and back-end development (Fullstack Developer). I am able to design, develop and maintain complete web applications.</p>
+    <p>I am a highly skilled and versatile software engineer who has expertise in both frontend and back-end development (Fullstack Developer). I am able to design, develop and maintain complete web applications.</p>
     <div className="header__cta">
           <a href="#contact" className='btn primary'>Let's Talk</a>
           <a href="#portfolio" className='btn light'>My Work</a>
